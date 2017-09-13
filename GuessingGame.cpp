@@ -2,6 +2,11 @@
 #include <cstdlib>
 using namespace std;
 
+//Guessing Game by Aidan Derocher
+//9/11/17
+//This is a program that comes up with a random number which the player has to guess
+//Than they will be told if they got it, or if it was higher or lower than their guess
+
 int  main()
 {
   bool game = true;
